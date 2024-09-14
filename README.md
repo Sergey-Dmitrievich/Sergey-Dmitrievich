@@ -7,11 +7,15 @@
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white">
 </a>
 
-<a href="https://vk.com/sergey_glazunov_07">
+<a href="https://krasnodar.hh.ru/resume/d1bd0af2ff0cfe0cea0039ed1f576f66305571">
   <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=HH&logoColor=white">
 </a>
 
-<a href="https://vk.com/sergey_glazunov_07">
+<a href="[https://vk.com/sergey_glazunov_07](https://career.habr.com/sergeyskvortsov123)">
+  <img src="https://img.shields.io/badge/Habr-red?style=for-the-badge&logo=Habr&logoColor=white">
+</a>
+
+<a href="https://t.me/Mr_Glaz_programmer">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white">
 </a>
 </div>
