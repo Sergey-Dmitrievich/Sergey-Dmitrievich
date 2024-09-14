@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://vk.com/sergey_glazunov_07">
-  <img src="https://img.shields.io/badge/HH-blue?style=for-the-badge&logo=HH&logoColor=white">
+  <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=HH&logoColor=white">
 </a>
 
 <a href="https://vk.com/sergey_glazunov_07">
