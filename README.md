@@ -6,13 +6,11 @@
 <a href="https://vk.com/sergey_glazunov_07">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white">
 </a>
-</div>
-<div id="socials" align="center">
+
 <a href="https://vk.com/sergey_glazunov_07">
   <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=white">
 </a>
-</div>
-<div id="socials" align="center">
+
 <a href="https://vk.com/sergey_glazunov_07">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white">
 </a>
