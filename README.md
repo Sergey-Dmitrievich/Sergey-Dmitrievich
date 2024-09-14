@@ -7,6 +7,16 @@
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white">
 </a>
 </div>
+<div id="socials" align="center">
+<a href="https://vk.com/sergey_glazunov_07">
+  <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=white">
+</a>
+</div>
+<div id="socials" align="center">
+<a href="https://vk.com/sergey_glazunov_07">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white">
+</a>
+</div>
 Я в основном работаю с Ангуляром 17+ версии, для меня это ренесанс у данного фреймворка, но писать на более ранных версиях не составит мне сильного труда.
 - Мой коммерческий опыт - я разрабатывал сайты на заказ (код некоторых из них представлен в моих репозиториях) и работал Frontend разработчиком в стартапе Leoka-Estetika, правда не очень долго, поскольку всё было на безвозмездной основе, но опыт я получил бесценный.
 Сейчас разрабатываю свою социальную сеть Astrogram (название может еще поменяю), фронт на Ангуляр я сейчас практически закончил (можете следить за ходом разработки в репозитории "Astrogram__Frontend"),
