@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Доброго времени суток! Меня зовут Сергей.</h1>
-  <h3>Мне 17 лет, и я Ангуляр разработчик.</h3>
+  <h1>Доброго времени суток! Меня зовут Сергей</h1>
+  <h3>Мне 17 лет, и я Ангуляр разработчик</h3>
 </div>
 <div id="socials" align="center">
 <a href="https://vk.com/sergey_glazunov_07">
@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://vk.com/sergey_glazunov_07">
-  <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=white">
+  <img src="https://img.shields.io/badge/HH-blue?style=for-the-badge&logo=HH&logoColor=white">
 </a>
 
 <a href="https://vk.com/sergey_glazunov_07">
