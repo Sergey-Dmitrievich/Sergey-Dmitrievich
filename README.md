@@ -27,7 +27,9 @@
 - React (Formik, React Hook Form, Axios, React Router, React Query, RTK Query, React Testing Library), Next.js / Vue3 (Vue Router, VueX, Vuetify), но всё таки Реакт нравился мне больше, буквально в Июле 2024 я заинтересовался Ангуляром, и начал глубоко изучать его архитектуру: <br>
 - Angular (RxJS, NgRx, DI), в процессе углубления создавая свою соц.сеть, и я просто влюбился в этот замечательный фреймворк! Все остальные по сравнению с ним велосипеды с моторчиком, потому свою карьеру я намерен связать с Ангуляром. <br>
 Все мои пет-проекты и часть рабочих, можете посмотреть в репозиториях.<br>
-Мои Hard skills:
+<div id="header" align="center">
+  <h2>Мои Hard skills:</h2>
+</div>
 
 - Angular (RxJS, NgRx);
 - HTML(HTML5), JSX;
