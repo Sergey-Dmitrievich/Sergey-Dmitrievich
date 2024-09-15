@@ -34,35 +34,35 @@
   <h2>Hard skills:</h2>
 </div>
 
-- Angular (RxJS, NgRx);
-- HTML(HTML5), JSX;
-- CSS (CSS3), SASS (SCSS), Bootstrap;
-- JavaScript (ES6 + OOP), Typescript;
-- React (Formik, React Hook Form, Axios, React Router, React Query, RTK Query, React Testing Library), Next.js;
-- Redux (React-Redux, Redux Toolkit);
+- Angular (RxJS, NgRx)
+- HTML(HTML5), JSX
+- CSS (CSS3), SASS (SCSS), Bootstrap
+- JavaScript (ES6 + OOP), Typescript
+- React (Formik, React Hook Form, Axios, React Router, React Query, RTK Query, React Testing Library), Next.js
+- Redux (React-Redux, Redux Toolkit)
 - Vue3 (Vue Router, VueX, Vuetify)
-- Git;
-- Node JS;
-- Python;
-- SQL;
-- JQuery;
-- Gsap;
-- Swiper JS;
-- REST API;
-- BEM;
-- Webpack, Vite, Gulp;
+- Git
+- Node JS
+- Python
+- SQL
+- JQuery
+- Gsap
+- Swiper JS
+- REST API
+- BEM
+- Webpack, Vite, Gulp
 
 <div id="header" align="center">
   <h2>Soft skills:</h2>
 </div>
 
-- Быстро учусь и усваиваю новую информацию;
-- Ответственный, стараюсь правильно формулировать мысли и вопросы;
-- Внимателен к деталям технического задания;
-- Требователен к качеству своего кода и соблюдаю стиль кода;
-- Приветствую конструктивную критику и всегда рад найти новые точки профессионального и личностного роста;
-- Умею договариваться и знаю как решать конфликтные ситуации;
-- Мотивирован совершенствовать свои навыки и постоянно изучаю новые технологии в своей сфере деятельности;
+- Быстро учусь и усваиваю новую информацию
+- Ответственный, стараюсь правильно формулировать мысли и вопросы
+- Внимателен к деталям технического задания
+- Требователен к качеству своего кода и соблюдаю стиль кода
+- Приветствую конструктивную критику и всегда рад найти новые точки профессионального и личностного роста
+- Умею договариваться и знаю как решать конфликтные ситуации
+- Мотивирован совершенствовать свои навыки и постоянно изучаю новые технологии в своей сфере деятельности
 
 <div id="header" align="center">
   <h2>Опыт:</h2>
