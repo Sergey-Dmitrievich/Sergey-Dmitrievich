@@ -26,11 +26,26 @@
 - Мой общий опыт как программиста 2+ года, начинал я в роли Data аналитика (Puthon, SQL, Pandas, Matplotlib, NumPy), затем я решил попробовать себя во фронте, начал изучать HTML, CSS, JS, TS, затем серьёзно начал изучать архитектуру Реакта и Вью: <br>
 - React (Formik, React Hook Form, Axios, React Router, React Query, RTK Query, React Testing Library), Next.js / Vue3 (Vue Router, VueX, Vuetify), но всё таки Реакт нравился мне больше, буквально в Июле 2024 я заинтересовался Ангуляром, и начал глубоко изучать его архитектуру: <br>
 - Angular (RxJS, NgRx, DI), в процессе углубления создавая свою соц.сеть, и я просто влюбился в этот замечательный фреймворк! Все остальные по сравнению с ним велосипеды с моторчиком, потому свою карьеру я намерен связать с Ангуляром. <br>
-Все мои пет-проекты и часть рабочих, можете посмотреть в репозиториях.
+Все мои пет-проекты и часть рабочих, можете посмотреть в репозиториях.<br>
 Мои Hard skills:
 
-- Html;
-- css;
+- Angular (RxJS, NgRx);
+- HTML(HTML5), JSX;
+- CSS (CSS3), SASS (SCSS), Bootstrap;
+- JavaScript (ES6 + OOP), Typescript;
+- React (Formik, React Hook Form, Axios, React Router, React Query, RTK Query, React Testing Library), Next.js;
+- Redux (React-Redux, Redux Toolkit);
+- Vue3 (Vue Router, VueX, Vuetify)
+- Git;
+- Node JS;
+- Python;
+- SQL;
+- JQuery;
+- Gsap;
+- Swiper JS;
+- REST API;
+- BEM;
+- Webpack, Vite, Gulp;
 
 
 
