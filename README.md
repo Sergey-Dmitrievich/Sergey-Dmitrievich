@@ -30,7 +30,6 @@
 Мои Hard skills:
 
 - Html;
-  
 - css;
 
 
