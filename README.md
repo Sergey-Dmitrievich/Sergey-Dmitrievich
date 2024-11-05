@@ -67,46 +67,46 @@
 
 <h3>Astrogram</h3>
 Август 2024 - Настоящее время <br>
-Angular developer
-Angular, NgRx, монолит NX (DDD)
-https://github.com/Sergey-Dmitrievich/Astrogram__Frontend
-Разработал компоненты поиска и фильтрации.
-Разработал всю часть взаимодействия с сервером.
-Разработал чат на Вебсоккетах.
-Внедрил и реализовал NgRx в проекте.
-Написал собственный CVA для контролов.
-Написал все формы и валидаторы к ним.
-Создал все UI компоненты.
-Пересадил весь проект на монолит NX (DDD).
+Angular developer <br>
+Angular, NgRx, монолит NX (DDD) <br>
+https://github.com/Sergey-Dmitrievich/Astrogram__Frontend <br>
+Разработал компоненты поиска и фильтрации. <br>
+Разработал всю часть взаимодействия с сервером. <br>
+Разработал чат на Вебсоккетах. <br>
+Внедрил и реализовал NgRx в проекте. <br>
+Написал собственный CVA для контролов. <br>
+Написал все формы и валидаторы к ним. <br>
+Создал все UI компоненты. <br>
+Пересадил весь проект на монолит NX (DDD). <br>
 
 <h3>Leoka Estetika</h3>
 Июнь 2024 - Июль 2024 <br>
-Angular разработчик
-Angular, Redux, PrimeNG
-leoka-estetica.ru/
-Я добавил часть тултипов в систему.
-Реализовывал переходы на другие страницы.
-Пофиксил баг с уведомлениями.
-В целом было много legacy кода, а так же рабочий процесс на безвозмездной основе.
+Angular разработчик <br>
+Angular, Redux, PrimeNG <br>
+leoka-estetica.ru/ <br>
+Я добавил часть тултипов в систему. <br>
+Реализовывал переходы на другие страницы. <br>
+Пофиксил баг с уведомлениями. <br>
+В целом было много legacy кода, а так же рабочий процесс на безвозмездной основе. <br>
 
 <h3>Точка теста</h3>
 Январь 2024 - Июнь 2024 <br>
-Frontend разработчик
-HTML, CSS, JS, React, React-router.
-https://TochkaTesta.ru
-Полностью создал и поддерживал сайт компании.
-Оцифровал всё меню.
-Полностью создавал и поддерживал сайты для компаний-партнёров.("https://KhinkaliShvili.ru" "https://HauteArt.ru")
-Оцифровывал всё меню для компании-партнёра.(https://KhinkaliShvili.ru)
-Оцифровал всю картинную галерею для компании-партнёра. (https://HauteArt.ru)
+Frontend разработчик <br>
+HTML, CSS, JS, React, React-router. <br>
+https://TochkaTesta.ru <br>
+Полностью создал и поддерживал сайт компании. <br>
+Оцифровал всё меню. <br>
+Полностью создавал и поддерживал сайты для компаний-партнёров.("https://KhinkaliShvili.ru" "https://HauteArt.ru") <br>
+Оцифровывал всё меню для компании-партнёра.(https://KhinkaliShvili.ru) <br>
+Оцифровал всю картинную галерею для компании-партнёра. (https://HauteArt.ru) <br>
 
 <h3>Фриланс</h3>
 Июнь 2023 - Январь 2024 <br>
-Веб-разработчик
-React, Redux Toolkit, React-router, Vue, HTML, CSS, JS, TS
-https://github.com/Sergey-Dmitrievich/
-Создавал сайты за символическую плату для знакомых.
-Вносил изменения в созданные сайты.
+Веб-разработчик <br>
+React, Redux Toolkit, React-router, Vue, HTML, CSS, JS, TS <br>
+https://github.com/Sergey-Dmitrievich/ <br>
+Создавал сайты за символическую плату для знакомых. <br>
+Вносил изменения в созданные сайты. <br>
 
 <!---
 Sergey-Dmitrievich/Sergey-Dmitrievich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
