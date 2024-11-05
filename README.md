@@ -69,7 +69,7 @@
 Август 2024 - Настоящее время <br>
 Angular developer <br>
 Angular, NgRx, монолит NX (DDD) <br>
-https://github.com/Sergey-Dmitrievich/Astrogram__Frontend <br>
+https://github.com/Sergey-Dmitrievich/Astrogram__Frontend <br> <br>
 - Разработал компоненты поиска и фильтрации. <br>
 - Разработал всю часть взаимодействия с сервером. <br>
 - Разработал чат на Вебсоккетах. <br>
@@ -83,7 +83,7 @@ https://github.com/Sergey-Dmitrievich/Astrogram__Frontend <br>
 Июнь 2024 - Июль 2024 <br>
 Angular разработчик <br>
 Angular, Redux, PrimeNG <br>
-leoka-estetica.ru/ <br>
+leoka-estetica.ru/ <br> <br>
 - Я добавил часть тултипов в систему. <br>
 - Реализовывал переходы на другие страницы. <br>
 - Пофиксил баг с уведомлениями. <br>
@@ -93,7 +93,7 @@ leoka-estetica.ru/ <br>
 Январь 2024 - Июнь 2024 <br>
 Frontend разработчик <br>
 HTML, CSS, JS, React, React-router. <br>
-https://TochkaTesta.ru <br>
+https://TochkaTesta.ru <br> <br>
 - Полностью создал и поддерживал сайт компании. <br>
 - Оцифровал всё меню. <br>
 - Полностью создавал и поддерживал сайты для компаний-партнёров.("https://KhinkaliShvili.ru" "https://HauteArt.ru") <br>
@@ -104,7 +104,7 @@ https://TochkaTesta.ru <br>
 Июнь 2023 - Январь 2024 <br>
 Веб-разработчик <br>
 React, Redux Toolkit, React-router, Vue, HTML, CSS, JS, TS <br>
-https://github.com/Sergey-Dmitrievich/ <br>
+https://github.com/Sergey-Dmitrievich/ <br> <br>
 - Создавал сайты за символическую плату для знакомых. <br>
 - Вносил изменения в созданные сайты. <br>
 
