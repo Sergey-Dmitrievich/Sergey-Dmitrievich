@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Здравствуйте! Меня зовут Сергей</h1>
-  <h3>Мне 17 лет, и я Ангуляр разработчик</h3>
+  <h3>Мне 17 лет, и я Angular разработчик</h3>
 </div>
 <div id="socials" align="center">
 <a href="https://vk.com/sergey_glazunov_07">
