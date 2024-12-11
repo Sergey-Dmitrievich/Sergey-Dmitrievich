@@ -64,7 +64,7 @@
 <h3>Точка теста</h3>
 Июль 2024 - Декабрь 2024 <br>
 Angular developer <br>
-Angular 18, Python, FastAPI, SQLAlchemy, PostgreSQL16.5
+Angular 18, Python, FastAPI, SQLAlchemy, PostgreSQL16.5 <br>
 - С нуля создал и внедрил свою социальную сеть повышенной безопасности Alius в качестве корпоративного мессенджера.
 - Добавил личные и групповые чаты.
 - Добавил возможность отправлять медиа файлы с ограничением по размеру (mp4, mp3, png, pdf).
@@ -74,7 +74,7 @@ Angular 18, Python, FastAPI, SQLAlchemy, PostgreSQL16.5
 <h3>Leoka Estetika</h3>
 Июнь 2024 - Июль 2024 <br>
 Angular разработчик <br>
-Angular 18, PrimeNG
+Angular 18, PrimeNG <br>
 - Добавил часть тултипов в систему.
 - Fix багов.
 - Реализовывал навигацию.
@@ -83,7 +83,7 @@ Angular 18, PrimeNG
 <h3>Точка теста</h3>
 Июль 2023 - Июнь 2024 <br>
 Frontend разработчик <br>
-- React, React-router, React hook form, Redux.
+- React, React-router, React hook form, Redux <br>
 - Полностью создал и поддерживал сайт компании.
 - Оцифровал всё меню.
 - Полностью создавал и поддерживал сайты для компаний-партнёров.("https://KhinkaliShvili.ru" "https://HauteArt.ru")
