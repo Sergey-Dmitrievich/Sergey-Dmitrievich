@@ -31,16 +31,13 @@
 </div>
 
 - Angular (v17+. но могу и на более ранних) + NgRx
-- HTML(HTML5), JSX
-- CSS (CSS3), SASS (SCSS), Bootstrap
-- JavaScript (ES6 + OOP), Typescript
 - React (Formik, React Hook Form, Axios, React Router, React Query, RTK Query, React Testing Library), Next.js
 - Redux (React-Redux, Redux Toolkit)
 - Vue3 (Vue Router, VueX, Vuetify)
 - Git (Git Flow)
 - Node JS
-- Python
-- SQL
+- Python, FastAPI
+- SQL, SQLAlchemy
 - JQuery
 - Gsap
 - Swiper JS
